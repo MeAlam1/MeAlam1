@@ -1,6 +1,9 @@
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MeAlam1&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeAlam1&layout=donut&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MeAlam1&show_icons=true&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeAlam1&layout=donut&theme=dark#gh-dark-mode-only" />
+</a>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MeAlam1&style=for-the-badge&color=orange" alt=""/>
