@@ -12,6 +12,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MeAlam1&repo=HTTYD-Bot&theme=dark#gh-dark-mode-only" />
 </a>
 
-<div align="center">
+<div align="center" padding="10px">
   <img src="https://komarev.com/ghpvc/?username=MeAlam1&style=for-the-badge&color=orange" alt=""/>
 </div>
