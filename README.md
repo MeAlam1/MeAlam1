@@ -1,6 +1,8 @@
 # 👋 Hey, I'm Aram Schönhage
 
-Frontend React developer focused on building intuitive and dynamic user experiences.
+Versatile Student Developer Specializing in Game Development
+
+As a dedicated and passionate student developer, I specialize in game development, bringing a diverse set of skills to the table. My expertise spans various programming languages and development tools, allowing me to create engaging and innovative gaming experiences. I am committed to continuous learning and staying updated with the latest industry trends and technologies.
 
 ## 💻 Skills
 <p align="center">
