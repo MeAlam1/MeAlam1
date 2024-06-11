@@ -5,7 +5,7 @@ Frontend React developer focused on building intuitive and dynamic user experien
 ## 💻 Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,js,nodejs,react,cs,discord,discordjs,dotnet,github,gitlab,gmail,gradle,java,idea,mongodb,mysql,npm,p5js,ps,pr,au,replit,unity,unreal,vscode,windows" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,html,css,js,cs,java,discord,discordjs,gmail,mongodb,mysql,nodejs,npm,dotnet,p5js,react,gradle,ps,pr,au,replit,unity,unreal,vscode,idea,windows" />
   </a>
 </p>
 
