@@ -38,7 +38,7 @@ As a dedicated and passionate student developer, I specialize in game developmen
   </a>
 </p>
 
-# Stats
+## 📊 Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" >
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MeAlam1&show_icons=true&theme=dark#gh-dark-mode-only" />
