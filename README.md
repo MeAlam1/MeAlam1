@@ -10,7 +10,7 @@ As a dedicated and passionate student developer, I specialize in game developmen
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cs,java" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,cs,cpp,java" />
   </a>
 </p>
 
