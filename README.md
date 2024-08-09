@@ -1,8 +1,8 @@
-# 👋 Hey, I'm Aram Schönhage
+# Hey, I'm Aram Schönhage
 
-Versatile Student Developer Specializing in Game Development
+Student Developer Specializing in Game Development
 
-As a dedicated and passionate student developer, I specialize in game development, bringing a diverse set of skills to the table. My expertise spans various programming languages and development tools, allowing me to create engaging and innovative gaming experiences. I am committed to continuous learning and staying updated with the latest industry trends and technologies.
+As a Developer focusing on Game Development i am bringing a diverse set of skills to the table. My expertise spans various programming languages and development tools, allowing me to create engaging and fun gaming experiences. I am committed to learning and staying updated with the latest industry trends and technologies.
 
 ## 💻 Skills
 
