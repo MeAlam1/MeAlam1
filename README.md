@@ -10,7 +10,7 @@ As a Developer focusing on Game Development i am bringing a diverse set of skill
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cs,cpp,java" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,cs,java" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@ As a Developer focusing on Game Development i am bringing a diverse set of skill
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,replit,unity,unreal,vscode,idea" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,unity,vscode,idea" />
   </a>
 </p>
 
@@ -26,7 +26,7 @@ As a Developer focusing on Game Development i am bringing a diverse set of skill
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discordjs,mongodb,mysql,nodejs,npm,dotnet,p5js,react,gradle" />
+    <img src="https://skillicons.dev/icons?i=discordjs,mongodb,mysql,nodejs,gradle" />
   </a>
 </p>
 
@@ -34,7 +34,7 @@ As a Developer focusing on Game Development i am bringing a diverse set of skill
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,gmail,ps,pr,au,windows" />
+    <img src="https://skillicons.dev/icons?i=discord,gmail,windows" />
   </a>
 </p>
 
