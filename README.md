@@ -1,8 +1,10 @@
-# Hey, I'm Aram Schönhage
+<h1 align="center">Hey, I'm Aram Schönhage</h1>
+<h3 align="center">A Student Game Developer from The Netherlands</h3>
 
-Student Developer Specializing in Game Development
-
-As a Developer focusing on Game Development i am bringing a diverse set of skills to the table. My expertise spans various programming languages and development tools, allowing me to create engaging and fun gaming experiences. I am committed to learning and staying updated with the latest industry trends and technologies.
+- **I enjoy Minecraft Modding!**
+- **Portfolio:** [https://mealam1.github.io/Portfolio/](https://mealam1.github.io/Portfolio/)
+- **Mail:** schonhagearam@gmail.com
+- **Discord:** [me_alam](https://discord.com/users/397416283835990016)
 
 ## 💻 Skills
 
@@ -18,7 +20,7 @@ As a Developer focusing on Game Development i am bringing a diverse set of skill
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,unity,vscode,idea" />
+    <img src="https://skillicons.dev/icons?i=github,gitlab,unity,vscode,idea" />
   </a>
 </p>
 
@@ -34,8 +36,14 @@ As a Developer focusing on Game Development i am bringing a diverse set of skill
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,gmail,windows" />
+    <img src="https://skillicons.dev/icons?i=git,discord,gmail,windows" />
   </a>
+</p>
+
+### Connect
+<p align="center">
+<a href="https://linkedin.com/in/aramschonhage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aram schönhage" height="30" width="40" /></a>
+<a href="https://discord.com/users/397416283835990016" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="test" height="30" width="40" /></a>
 </p>
 
 ## 📊 Stats
