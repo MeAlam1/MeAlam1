@@ -16,7 +16,7 @@
   </a>
 </p>
 
-### Coding Applications
+### Applications
 
 <p align="center">
   <a href="https://skillicons.dev">
