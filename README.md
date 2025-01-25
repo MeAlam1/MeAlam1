@@ -8,7 +8,7 @@
 
 ## 💻 Skills
 
-### Coding Languages
+### Experience 
 
 <p align="center">
   <a href="https://skillicons.dev">
