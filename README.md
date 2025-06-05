@@ -48,11 +48,17 @@
 
 ## 📊 Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" >
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MeAlam1&show_icons=true&theme=dark#gh-dark-mode-only" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeAlam1&layout=donut&theme=dark#gh-dark-mode-only" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mealam1&theme=dark#gh-dark-mode-only"/>
+</a>
+<a>
+  <img src="https://github-profile-trophy.vercel.app/?username=mealam1&theme=juicyfresh"/>
 </a>
 
 <div align="center">
