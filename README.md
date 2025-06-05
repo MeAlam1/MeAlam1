@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cs,java" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,cs,java,kotlin" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,gitlab,unity,vscode,idea" />
+    <img src="https://skillicons.dev/icons?i=github,gitlab,azure,unity,vscode,idea,rider,androidstudio" />
   </a>
 </p>
 
